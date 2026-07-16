@@ -1,5 +1,8 @@
 # Private hosting deployment
 
+This guide corresponds to the **[Pigeon-Private-Hosting](https://github.com/MoGLCL/Pigeon-Private-Hosting)** release.
+The main development repository (hub) is located at **[MoGLCL/Pigeon](https://github.com/MoGLCL/Pigeon)**.
+
 Use the `Pigeon-Private-Hosting` distribution when deploying to your own Node-capable host, VPS or control panel.
 
 1. Upload the source without `.env`, `node_modules`, `.next`, runtime logs, database dumps or user media.

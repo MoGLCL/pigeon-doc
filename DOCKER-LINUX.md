@@ -1,5 +1,8 @@
 # Linux deployment with Docker
 
+This guide corresponds to the **[Pigeon-Linux-Docker](https://github.com/MoGLCL/Pigeon-Linux-Docker)** release.
+The main development repository (hub) is located at **[MoGLCL/Pigeon](https://github.com/MoGLCL/Pigeon)**.
+
 ## Requirements
 
 - A Linux host with Docker Engine and Docker Compose v2

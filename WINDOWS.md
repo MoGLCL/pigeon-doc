@@ -1,5 +1,8 @@
 # Windows local installation (no Docker)
 
+This guide corresponds to the **[Pigeon-Windows-Local](https://github.com/MoGLCL/Pigeon-Windows-Local)** release.
+The main development repository (hub) is located at **[MoGLCL/Pigeon](https://github.com/MoGLCL/Pigeon)**.
+
 ## Requirements
 
 - Windows 10/11, Node.js 22 LTS, npm and Git
